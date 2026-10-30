@@ -5,3 +5,7 @@ III. Rezultātā iegūstam 24 rindas kuros ir cipari kuri norāda cik rindu ir a
 
 J2.
 (Izvērtēts)
+Izmantojot PowerShell Tavs skripts būs manāmi īsāks un kompakts, atšķirībā no Bash,
+jo PowerShell objekti ir strukturēti objekti kas uzreiz atlasa 200MB procesus.
+Savukārt Bash ir teksts kurš nesaprot un nevarot atrast precesus, tapēc Bash
+ir vajadzīgi palīgrīki kas pārveidotu tekstu par norādēm.
