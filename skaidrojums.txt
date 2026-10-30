@@ -1,1 +1,7 @@
-# Parbaudes-darbs-Sarkanbiksis
+J1. 
+I. Atdalīt laiku sistema.log rindās.
+II. Izveidot skriptu kas izvada no plkst. 00:xx līdz 23:xx rindu skaitus.
+III. Rezultātā iegūstam 24 rindas kuros ir cipari kuri norāda cik rindu ir atbilstošam laikam.
+
+J2.
+(Izvērtēts)
